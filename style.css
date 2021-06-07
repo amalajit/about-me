@@ -1,0 +1,23 @@
+body{
+  text-align:center;
+  background-color:lightblue;
+    font-family: 'Playfair Display', serif;
+}
+p{
+  font-size:24px;
+}
+hr{
+  width:600px;
+  height:6px;
+  background-color:black;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer
+        color:black;
+
+}
